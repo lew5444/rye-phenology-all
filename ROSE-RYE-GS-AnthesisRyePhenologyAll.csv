@@ -1,4 +1,4 @@
-﻿plot,block,rate,pattern,stage,diameter_mm,height_cm,who
+﻿plot,block,rate,pattern,stage,diameter,height,who
 101,1,112,Row,69,na,15.2,Laurel
 101,1,112,Row,71,na,20.3,Laurel
 101,1,112,Row,na,na,20.3,Laurel
