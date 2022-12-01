@@ -1,4 +1,4 @@
-﻿plot,block,rate,PD,stage,diameter_mm,height_cm,who
+﻿plot,block,rate,PD,stage,diameter,height,who
 101E,1,1.5,Early,na,0.5,20.3,Laurel 
 101E,1,1.5,Early,na,0.6,22.9,Laurel 
 101E,1,1.5,Early,57,1.1,31.8,Laurel 
