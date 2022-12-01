@@ -1,6 +1,6 @@
-﻿plot,block,rate,PD,stage,diameter,height,who
-101E,1,1.5,Early,,0.5,20.3,Laurel 
-101E,1,1.5,Early,,0.6,22.9,Laurel 
+﻿plot,block,rate,PD,stage,diameter_mm,height_cm,who
+101E,1,1.5,Early,na,0.5,20.3,Laurel 
+101E,1,1.5,Early,na,0.6,22.9,Laurel 
 101E,1,1.5,Early,57,1.1,31.8,Laurel 
 101E,1,1.5,Early,49,1.7,40.6,Laurel 
 101E,1,1.5,Early,47,1.2,45.7,Laurel 
@@ -325,7 +325,7 @@
 102L,1,0,Late,69,3.68,142.2,Laurel 
 102L,1,0,Late,67,3.46,144.8,Laurel 
 102L,1,0,Late,69,3.73,147.3,Laurel 
-103E,1,3,Early,,0.7,27.9,Laurel 
+103E,1,3,Early,na,0.7,27.9,Laurel 
 103E,1,3,Early,49,0.7,33,Laurel 
 103E,1,3,Early,59,0.6,34.3,Laurel 
 103E,1,3,Early,49,0.6,35.6,Laurel 
